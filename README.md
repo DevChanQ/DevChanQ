@@ -8,7 +8,7 @@ You can find me on &nbsp; [<img src="https://img.icons8.com/?size=256&id=yoQabS8
 
 ## 🏗️ I have worked on...
 
-<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Weekly](https://arweavehub.com/weekly) - daily dose of Arweave, delivered right to you
+<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Weekly](https://arweavehub.com/weekly) - The latest updates from the ecosystem every week.
 
 <img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Today](https://arweavehub.com/today) - daily dose of Arweave, delivered right to you
 
