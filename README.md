@@ -1,14 +1,16 @@
-## Hello I am Jeffrey Chan aka devjeff 👋
+## Hello.
 
-I am a 27 years old independent software developer who resides in Hong Kong. I make software that's fun, and cool 😎.
+I am Jeffrey Chan. I am a 27 years old independent software developer who resides in Hong Kong.
 
-I specialises in frontend and backend development but feel free to contact me to discuss about anything 😉
+I specialises in frontend and backend development but feel free to contact me to discuss about anything.
 
-You can find me on &nbsp; [<img src="https://img.icons8.com/?size=256&id=yoQabS8l0qpr&format=png" width="30"/>](https://twitter.com/DevJeffHK) &nbsp; or contact me via &nbsp; <a href="mailto:jeffrey@devjeff.info"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30"/> </a>
+I make software that's fun, and cool.
 
-## 🏗️ I have worked on...
+You can find me on [X](https://twitter.com/DevJeffHK) or contact me via <a href="mailto:jeffrey@devjeff.info">mail</a>
 
-<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Weekly](https://arweavehub.com/weekly) - The latest updates from the ecosystem every week.
+## Projects.
+
+<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Weekly](https://arweavehub.com/weekly) - daily dose of Arweave, delivered right to you
 
 <img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Today](https://arweavehub.com/today) - daily dose of Arweave, delivered right to you
 
@@ -20,6 +22,6 @@ You can find me on &nbsp; [<img src="https://img.icons8.com/?size=256&id=yoQabS8
 
 [Amiibo concept page](https://devjeff.info/amiibo?name=ken) - Cool concept site with fun animations built with Vue.js & gsap
 
-## 📈 Some stats about me
+## Stats.
 
 <img src="https://myreadme.vercel.app/api/embed/DevChanQ?panels=toprepositories,toplanguages,commitgraph" />
