@@ -8,9 +8,13 @@ I make software that's fun, and cool.
 
 You can find me on [X](https://twitter.com/DevJeffHK) or contact me via <a href="mailto:jeffrey@devjeff.info">mail</a>
 
-## Projects.
+## Learning.
 
-<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Weekly](https://arweavehub.com/weekly) - daily dose of Arweave, delivered right to you
+🤖 Machine Learning
+🤗 Hugging Face
+🧑‍💻 Rust
+
+## Projects.
 
 <img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Today](https://arweavehub.com/today) - daily dose of Arweave, delivered right to you
 
@@ -21,6 +25,8 @@ You can find me on [X](https://twitter.com/DevJeffHK) or contact me via <a href=
 <img src="https://devjeff.info/github-logo.svg" width="20"> [react-native-svg-editor](https://github.com/DevChanQ/react-native-svg-editor) - The library that powers SVG Editor
 
 [Amiibo concept page](https://devjeff.info/amiibo?name=ken) - Cool concept site with fun animations built with Vue.js & gsap
+
+[Pikabu tweak](https://github.com/DevChanQ/pikabu) - Volume Hud tweak for jailbroken iOS devices
 
 ## Stats.
 
