@@ -4,26 +4,24 @@ I am Jeffrey Chan. I am a software engineer who resides in Hong Kong.
 
 I make software that's fun for everyone and I am passionate about open source.
 
-You can find me on [X](https://twitter.com/DevJeffHK) or contact me via <a href="mailto:jeffrey@devjeff.info">mail</a>
+----------
 
-## What I am learning.
+Contact me on [X](https://twitter.com/DevJeffHK) or via <a href="mailto:jeffrey@devjeff.info">mail</a>
 
-🤖 Machine Learning
+*[Download my resume](/resume/resume.pdf)*
 
-🤗 Hugging Face
+### I worked on 👨‍💻
 
-🧑‍💻 Rust
+[MyXSite](https://myxsite.ai) - Turn your profile into a website. Instantly.
 
-## What I worked on.
-
-<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Today](https://arweavehub.com/today) - daily dose of Arweave, delivered right to you
-
-<img src="https://devjeff.info/arweave.svg" width="20"> [Permaweb Cookbook 2.0](https://cookbook.arweave.dev/) - Redesigned & developed cookbook 2.0 for the Arweave community
-
-<img src="https://devjeff.info/images/svg-editor-logo.png" width="20"> [SVG Editor](https://thumbnaillab.app) - vector graphic designer app built with React Native
+<img src="https://devjeff.info/aoComputer.svg" width="20"> [AO DevBot](https://devbot-preview_computerclub.ar.io) - AI powered coding assistant that helps you develop decentralised application on the AO Computer
 
 <img src="https://devjeff.info/github-logo.svg" width="20"> [react-native-svg-editor](https://github.com/DevChanQ/react-native-svg-editor) - The library that powers SVG Editor
 
-[Amiibo concept page](https://devjeff.info/amiibo?name=ken) - Cool concept site with fun animations built with Vue.js & gsap
+<img src="https://devjeff.info/github-logo.svg" width="20"> [Pikabu tweak](https://github.com/DevChanQ/pikabu) - Volume Hud tweak for jailbroken iOS devices
 
-[Pikabu tweak](https://github.com/DevChanQ/pikabu) - Volume Hud tweak for jailbroken iOS devices
+[See all projects](https://github.com/DevChanQ/my-projects)
+
+### I am learning 👨‍🏫
+
+Rust, Machine Learning & LLMs
