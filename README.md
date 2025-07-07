@@ -2,9 +2,7 @@
 
 I am Jeffrey Chan. I am a software engineer who resides in Hong Kong.
 
-I specialises in frontend and backend development but feel free to contact me to discuss about anything.
-
-I make software that's fun, and cool.
+I make software that's fun for everyone and I am passionate about open source.
 
 You can find me on [X](https://twitter.com/DevJeffHK) or contact me via <a href="mailto:jeffrey@devjeff.info">mail</a>
 
