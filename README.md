@@ -8,8 +8,6 @@ I make software that's fun for everyone and I am passionate about open source.
 
 Contact me on [X](https://twitter.com/DevJeffHK) or via <a href="mailto:jeffrey@devjeff.info">mail</a>
 
-*[Download my resume](/resume/resume.pdf)*
-
 ### I worked on 👨‍💻
 
 [MyXSite](https://myxsite.ai) - Turn your profile into a website. Instantly.
