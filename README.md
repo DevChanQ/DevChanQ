@@ -6,7 +6,7 @@ I make software that's fun for everyone and I am passionate about open source.
 
 ----------
 
-Contact me on [X](https://twitter.com/DevJeffHK) or via <a href="mailto:jeffrey@devjeff.info">mail</a>
+Let's contact - [X](https://twitter.com/DevJeffHK) | [LinkedIn](https://www.linkedin.com/in/jeffrey-ching-kiu-chan/) | <a href="mailto:jeffrey@devjeff.info">mail</a>
 
 ### I worked on 👨‍💻
 
